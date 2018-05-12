@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8797
     wikipedia: https://en.wikipedia.org/wiki/James_Norman_Hall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19655#Kitchener-s-Mob--Adventures-of-an-American-in-the-British-Army
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-10-29'
 gutenberg_type: Text
